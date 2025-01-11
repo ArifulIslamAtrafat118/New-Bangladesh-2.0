@@ -111,7 +111,7 @@ body{
 /* styles of main section */
 .pilar{
     width: 302px;
-    height: 244px;
+    height: 260px;
     margin-top: 32px;
     margin-bottom: 80px;
     padding: 24px;
@@ -268,7 +268,6 @@ input[placeholder="Other Amount (Taka)"] {
 }
 
 .subscribe-section{
-    padding: 80px 100px 80px 100px;
     height: 395px;
     display: flex;
     flex-direction: column;
