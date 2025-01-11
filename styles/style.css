@@ -35,6 +35,10 @@
     border-color: rgb(255, 255, 255);
     /* box-shadow: 5px 5px rgb(20,100,110); */
 }
+.card:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    border-color: #4caf50; 
+}
 /* padding-1 for reed more */
 .padding-1{
     padding: 13px 26px 13px 26px;
